@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/INFO5100-002728922-Xueying-Li.iml" filepath="$PROJECT_DIR$/.idea/INFO5100-002728922-Xueying-Li.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise/exercise0/exercise0.iml" filepath="$PROJECT_DIR$/exercise/exercise0/exercise0.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise/exercise01/exercise01.iml" filepath="$PROJECT_DIR$/exercise/exercise01/exercise01.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise/exercise02/exercise02.iml" filepath="$PROJECT_DIR$/exercise/exercise02/exercise02.iml" />
